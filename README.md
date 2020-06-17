@@ -1,6 +1,6 @@
 # Kubernetes Aangine Charts Config
 
-Configuration repository for docker image relate to repository .....
+Configuration repository for docker image relate to [aangine-k8s-addson-config](https://github.com/hellgate75-cs/aangine-k8s-addson-config) related docker image.
 
 
 
